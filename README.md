@@ -1,11 +1,8 @@
 # Mp3 歌词文件一键导入到Premiere cc
 ## Lyric to premiere pro cc subtitles
 ## 如何使用这个程序？
-- [download]
-
-![双击运行进入小程序界面](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/Premiere%20Pro%20XML.jar "Premiere Pro XML.jar")
-
-![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/mainframe.png)
+- [download](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/Premiere%20Pro%20XML.jar "Premiere Pro XML.jar")
+![双击运行进入小程序界面](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/mainframe.png)
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/choose.png)
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/saveas.png)
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/savetoxml.png)
