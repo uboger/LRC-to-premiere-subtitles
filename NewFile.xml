@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+	xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling"
+	ttp:dropMode="nonDrop" ttp:frameRate="25" ttp:timeBase="smpte">
+
+	<head>
+		<styling>
+			<style tts:color="white" tts:fontFamily="monospace"
+				tts:fontWeight="normal" tts:textAlign="left" xml:id="basic" />
+		</styling>
+		<layout>
+			<region tts:backgroundColor="transparent" xml:id="pop1" />
+			<region tts:backgroundColor="transparent" xml:id="paint" />
+			<region tts:backgroundColor="transparent" xml:id="rollup2" />
+			<region tts:backgroundColor="transparent" xml:id="rollup3" />
+			<region tts:backgroundColor="transparent" xml:id="rollup4" />
+		</layout>
+		<metadata />
+	</head>
+
+	<body>
+		<div>
+
+			<p begin="00:00:01" end="01:24:50" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					香吉士 - 网络歌手
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="01:24:50" end="01:31:37" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Amore mio non sai quante volte ho sognato
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="01:31:37" end="01:36:21" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Che lei stesse distante da noi
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="01:36:21" end="01:43:67" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Ma poi si è intromessa ed ha rovinato tutto
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="01:43:67" end="01:48:53" region="pop1" style="basic" tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell'aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="01:48:53" end="01:53:22" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu sei più importante di quella ragazza amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="01:53:22" end="01:58:09" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell'aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="01:58:09" end="02:02:96" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu sei il mio amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:02:96" end="02:07:72" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell'aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:07:72" end="02:12:46" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lei lascia che dica lei non sa cos'è l'amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:12:46" end="02:17:18" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lascia pure che ti parli male di me
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:17:18" end="02:21:90" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Forse quel che vuole e solo avermi con se
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:21:90" end="02:26:91" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell'aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:26:91" end="02:31:70" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lei lascia che dica lei non sa cos'è l'amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:31:70" end="02:36:42" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lascia pure che ti parli male di me
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="02:36:42" end="03:19:62" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Forse quel che vuole e solo avermi con se
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:19:62" end="03:24:13" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Ormai noi due non stiamo più insieme
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:24:13" end="03:29:12" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Non siamo tranquilli per colpa sua
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:29:12" end="03:33:92" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lascia amore che ti dica una cosa
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:33:92" end="03:38:91" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Io voglio solo restare con te perchè
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:38:91" end="03:43:71" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell'aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:43:71" end="03:48:49" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu sei più importante di quella ragazza amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:48:49" end="03:53:29" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell'aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:53:29" end="03:58:08" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu sei il mio amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="03:58:08" end="04:02:96" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="04:02:96" end="04:07:70" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lei lascia che dica lei non sa cos'è l'amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="04:07:70" end="04:12:48" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lascia pure che ti parli male di me
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="04:12:48" end="04:17:29" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Forse quel che vuole è solo avermi con se
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="04:17:29" end="04:22:15" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Tu vivi nell aria tu vivi dentro al mio cuore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="04:22:15" end="04:26:92" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lei lascia che dica lei non sa cos'è l'amore
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="04:26:92" end="04:31:60" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Lascia pure che ti parli male di me
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+			<p begin="04:31:60" end="04:36:60" region="pop1" style="basic"
+				tts:origin="10% 78.744%">
+				<style />
+				<span>
+					Forse quel che vuole è solo avermi con se
+					<style tts:fontSize="36px" />
+				</span>
+			</p>
+		</div>
+	</body>
+
+</tt>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:dropMode="nonDrop" ttp:frameRate="25" ttp:timeBase="smpte" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+
+  <head>
+    <styling>
+      <style tts:color="white" tts:fontFamily="monospace" tts:fontWeight="normal" tts:textAlign="left" xml:id="basic"/>
+    </styling>
+    <layout>
+      <region tts:backgroundColor="transparent" xml:id="pop1"/>
+      <region tts:backgroundColor="transparent" xml:id="paint"/>
+      <region tts:backgroundColor="transparent" xml:id="rollup2"/>
+      <region tts:backgroundColor="transparent" xml:id="rollup3"/>
+      <region tts:backgroundColor="transparent" xml:id="rollup4"/>
+    </layout>
+    <metadata/>
+  </head>
+
+  <body>
+    <div>
+      <p begin="00:00:00:00" end="00:01:01:00" region="pop1" style="basic" tts:origin="36.40625% 86.25%">
+        <style/>
+        <span>fhjdasoihfiaodsujfiowenkldsajflkdajglkagjds
+          <style tts:fontSize="18px"/>
+        </span>
+      </p>
+      <p begin="00:01:01:00" end="00:02:02:00" region="pop1" style="basic" tts:origin="36.40625% 86.25%">
+        <style/>
+        <span>你哈吉发射点立刻解放咔 
+          <style tts:fontSize="18px"/>
+        </span>
+      </p>
+      <p begin="00:02:02:00" end="00:02:55:00" region="pop1" style="basic" tts:origin="36.40625% 86.25%">
+        <style/>
+        <span>中华人民共和国
+          <style tts:fontSize="62px"/>
+        </span>
+      </p>
+    </div>
+  </body>
+
+</tt>
