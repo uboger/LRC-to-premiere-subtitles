@@ -23,6 +23,8 @@
 
 - Premiere 可以显示了
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/in the move.png "在Premiere 中显示")
+
+
 ## 转换前格式
 ```lrc
 [ml:1.0]
