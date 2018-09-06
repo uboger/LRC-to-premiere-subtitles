@@ -2,7 +2,14 @@
 ## Lyric to premiere pro cc subtitles
 ## 如何使用这个程序？
 - [download](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/Premiere%20Pro%20XML.jar "Premiere Pro XML.jar")
-
+- 双击运行
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/mainframe.png)
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/choose.png)
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/saveas.png)
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/savetoxml.png)
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/premiere.png)
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/endfile.png)
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/in the move.png)
 ## 转换前格式
 ```lrc
 [ml:1.0]
