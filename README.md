@@ -3,7 +3,7 @@
 ## 转换前格式
 ```lrc
 [00:00.57]There's a girl but I let her get away
-```lrc
+```
 ## 转换后的格式
 
 ```xml
