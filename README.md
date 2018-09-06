@@ -22,7 +22,7 @@
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/endfile.png "文件后缀名称") 
 
 - Premiere 可以显示了
-![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/in the move.png "在Premiere 中显示")
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/in20%the20%move.png "在Premiere 中显示")
 
 
 ## 转换前格式
