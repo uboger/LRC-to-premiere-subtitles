@@ -4,7 +4,6 @@
 
 ##### 使用前请确认你的电脑是否安装和配置好Java环境
 
-- [download](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/Lrc2PRXML.jar "Lrc2PRXML.jar")
 - [download](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/install.rar "程序包")
 
 - 双击运行进入小程序界面
