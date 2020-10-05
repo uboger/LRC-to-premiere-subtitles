@@ -7,6 +7,7 @@
 - [download](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/install.rar "程序包")
 
 - 双击运行进入小程序界面
+
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/open.png "小程序界面")
 
 - 选择要转换的歌词文件（注意一定是*.lrc格式的文件，选择点击确定后自动转换）
