@@ -1,4 +1,4 @@
-# Mp3 歌词文件一键导入到Premiere cc
+# Mp3 歌词文件LRC格式为PREMIERE格式
 ## Lyric to premiere pro cc subtitles
 ## 如何使用这个程序？
 
