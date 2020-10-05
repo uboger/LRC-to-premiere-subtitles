@@ -7,13 +7,13 @@
 - [download](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/Premiere%20Pro%20XML.jar "Premiere Pro XML.jar")
 
 - 双击运行进入小程序界面
-![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/masterl/mainframe.png "小程序界面")
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/OU_2)PMCTX)D)HATWEQ8T7T.png "小程序界面")
 
 - 选择要转换的歌词文件（注意一定是*.lrc格式的文件，选择点击确定后自动转换）
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/choose.png "选择要转换的lrc文件")
 
 - 点击另存为 将转换好的文件进行保存，以便导入到Premiere 中
-![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/saveas.png "点击另存为")
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/T%5DG~59U~_9LF)L6E(8%24SV%25P.png"点击另存为")
 
 - 这里可以 选择转换后的文件保存的文件夹和修改文件名称（指定文件名称和文件路径）
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blolb/master/savetoxml.png)
