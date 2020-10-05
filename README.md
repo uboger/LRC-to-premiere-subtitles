@@ -20,13 +20,13 @@
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blolb/master/savetoxml.png)
 
 - 将转换好的文件导入到Premiere 中
-![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/premiere.png "导入到Premiere")
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/timeline.png "导入到Premiere")
 
 - 转换前的文件后缀名称和转换后的文件后缀名称
 ![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/endfile.png "文件后缀名称") 
 
 - Premiere 可以显示了
-![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/in%20the%20move.png "在Premiere 中显示")
+![](https://github.com/uboger/LRC-to-premiere-subtitles/blob/master/oneline.png "在Premiere 中显示")
 
 
 ## 转换前格式
